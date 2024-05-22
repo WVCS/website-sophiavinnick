@@ -1,3 +1,49 @@
 body {
 
 }
+h1 {
+    color: lightblue;
+    font-size: 60px;
+    text-align: center;
+    text-decoration-line: overline;
+     text-decoration-line: underline;
+
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+
+
+
+img {
+  width: 20%
+}
+h1:hover {
+  color: pink;
+boarder: dotted gold 8px;
+}
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: blue;
+  width: 100vw;
+  top:0;
+  left: 0;
+  padding: 20px;
+  color: white;
+}
+
+li {
+  display: inline; 
+  padding: 150;
+}
+
+a {
+  text-decoration: none;
+  color: ivory; 
+}
+li:hover {
+  background-color: lightblue;
+}
